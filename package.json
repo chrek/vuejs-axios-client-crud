@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
-    "@vue/cli-plugin-eslint": "~4.2.0",
+    "@vue/cli-plugin-eslint": "~4.2.3",
     "@vue/cli-plugin-router": "~4.2.0",
     "@vue/cli-service": "~4.2.0",
     "@vue/eslint-config-prettier": "^6.0.0",
@@ -27,7 +27,7 @@
     "prettier": "^1.19.1",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11",
-    "minimist": "^1.2.2",    
+    "minimist": "^1.2.2",
     "acorn": "^6.4.1"
   }
 }
